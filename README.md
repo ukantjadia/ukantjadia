@@ -2,7 +2,7 @@
 <h1 align="center">Hello! I'm Ukant Jadia</h1>
 <h3 align="center">I do open source:)</h3>
 <br \>
-
+<a href="https://app.daily.dev/ukant_jadia"><img src="https://api.daily.dev/devcards/dbab39c16f11401f9e2d72542d932ccb.png?r=9v5" width="400" alt="Ukant Jadia's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukantjadia" alt="ukantjadia" /></a> </p>
