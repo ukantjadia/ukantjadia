@@ -1,14 +1,19 @@
-<a ><img src="https://ukantjadia.me/github.png" alt="A Data Wizard!! " width="100%" height="auto"/></a>
+<a align="center"><img src="https://ukantjadia.me/github.png" alt="A Data Wizard!! " width="100%" height="auto"/></a>
 
 <h3 align="center">A passionate </h3>
+<a href="https://app.daily.dev/ukant_jadia"><img align="right" src="https://api.daily.dev/devcards/dbab39c16f11401f9e2d72542d932ccb.png?r=9v5" width="400" alt="Ukant Jadia's Dev Card"/></a>
+ 
+<p > <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p>
+
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukantjadia" alt="ukantjadia" /></a> </p> -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<!-- <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/ukantjadia" target="blank"><img src="https://img.shields.io/twitter/follow/ukantjadia?logo=twitter&style=for-the-badge" alt="ukantjadia" /></a> </p> -->
-<a align="right" href="https://app.daily.dev/ukant_jadia"><img src="https://api.daily.dev/devcards/dbab39c16f11401f9e2d72542d932ccb.png?r=9v5" width="400" alt="Ukant Jadia's Dev Card"/></a>
+
+  
 - 🔭 I’m currently working on **Analysis of Death due to Cancer**
 
 - 🌱 I’m currently learning **Web Scraping | Deep Learning**
@@ -18,6 +23,9 @@
 - 💬 Ask me about **Linux | Uinx | Python | ML | Bash | EDA | GIT**
 
 - 📫 How to reach me **ukantjadia0120@gmail.com**
+            
+            
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +49,7 @@
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukantjadia&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ukantjadia" /></p> -->
-
+<br><br><br><br>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ukantjadia&show_icons=true&theme=gruvbox&locale=en" alt="ukantjadia" /></p> -->
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ukantjadia&theme=tokyonight" alt="ukantjadia" /></p>
 
