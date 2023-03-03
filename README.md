@@ -8,7 +8,7 @@
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 <!-- <p align="left"> <a href="https://twitter.com/ukantjadia" target="blank"><img src="https://img.shields.io/twitter/follow/ukantjadia?logo=twitter&style=for-the-badge" alt="ukantjadia" /></a> </p> -->
-
+<a align="right" href="https://app.daily.dev/ukant_jadia"><img src="https://api.daily.dev/devcards/dbab39c16f11401f9e2d72542d932ccb.png?r=9v5" width="400" alt="Ukant Jadia's Dev Card"/></a>
 - 🔭 I’m currently working on **Analysis of Death due to Cancer**
 
 - 🌱 I’m currently learning **Web Scraping | Deep Learning**
