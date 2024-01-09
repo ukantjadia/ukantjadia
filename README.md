@@ -41,8 +41,14 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ukantjadia&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ukantjadia&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true) -->
 <br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ukantjadia&theme=tokyonight" alt="ukantjadia" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ukantjadia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ukantjadia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ukantjadia&theme=tokyonight" alt="ukantjadia" /></p> -->
 
 Read me Aloud !!
 
-<img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img align="left" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
