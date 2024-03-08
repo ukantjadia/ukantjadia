@@ -62,6 +62,7 @@ print("   - Twitter: https://twitter.com/UkantJ22803")
 
 # Happy coding! 🚀
 ```
+<p > <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -100,25 +101,25 @@ print("   - Twitter: https://twitter.com/UkantJ22803")
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukantjadia&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukantjadia&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukantjadia&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ukantjadia&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ukantjadia&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ukantjadia&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![ukantjadia's GitHub | Stats](https://stats.quine.sh/ukantjadia/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ukantjadia)
+[![ukantjadia's GitHub | Languages Over Time](https://stats.quine.sh/ukantjadia/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ukantjadia)
 
-
-
+<!--[![ukantjadia's GitHub | Topics Over Time](https://stats.quine.sh/ukantjadia/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ukantjadia)-->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ukantjadia&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ukantjadia&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true) -->
-<be>
+
 <!-- <br><br><br> -->
-
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="ukantjadia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ukantjadia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ukantjadia&theme=tokyonight" alt="ukantjadia" /></p> -->
-
+<!-- <details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="ukantjadia's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ukantjadia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
 Read me Aloud !!
+<img align="left" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />   -->
 
-<img align="left" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
-&nbsp;&nbsp;
-&nbsp
-<p > <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p>
