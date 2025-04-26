@@ -9,11 +9,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What I Know About Java](https://ukant.tech/posts/what-i-know-about-java/)
-- [Learn Visualization With Seaborn](https://ukant.tech/posts/learn-visualization-with-seaborn/)
-- [Markdown to Html Conversion](https://ukant.tech/posts/markdown-to-html-conversion/)
-- [Learn Termux a Terminal Multiplexer](https://ukant.tech/posts/learn-termux-a-terminal-multiplexer/)
-- [Network Concepts Basics](https://ukant.tech/posts/network-concepts-basics/)
+- [A Beginner&#39;s Guide to DevOps with Terraform and GitHub](http://ukantjadia.me/project/devops-journy/)
+- [SAS Fraud Management Platform](http://ukantjadia.me/post/sas-fm/)
+- [ECG-Lense: Benchmarking ML &amp; DL Models on PTB-XL Dataset](http://ukantjadia.me/publication/conference-paper/)
+- [Federated Learning vs. De-Anonymization -- Protecting Your Data](http://ukantjadia.me/post/fl-2/)
+- [Introduction to Federated Learning](http://ukantjadia.me/post/fl/)
 <!-- BLOG-POST-LIST:END -->
 
 
