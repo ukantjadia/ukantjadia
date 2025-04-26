@@ -5,63 +5,6 @@
 
 # Hello, I'm Ukant Jadia 👋
 
-```python
-class Developer:
-    def __init__(self, name, role, location):
-        self.name = name
-        self.role = role
-        self.location = location
-
-developer = Developer(
-    name="Ukant Jadia",
-    role="Software Engineer",
-    location="Udaipur, India",
-)
-
-print(f"🚀 Hi there! I'm {developer.name}, a {developer.role} based in {developer.location}.")
-
-class Skills:
-    def __init__(self, programming_languages, technologies, tools):
-        self.programming_languages = programming_languages
-        self.technologies = technologies
-        self.tools = tools
-
-skills = Skills(
-    programming_languages=["Python", "C/C++", "SQL", "Dart", "Shell", "Java"],
-    technologies=["Flask", "TensorFlow", "Flutter", "OpenCV", "PyTorch"],
-    tools=["Git", "VS Code", "Docker", "Vim", "Tmux", "Linux", "Pandoc"]
-)
-
-# Display Skills
-print("💻 I specialize in:")
-print(f"   - Programming languages: {', '.join(skills.programming_languages)}")
-print(f"   - Technologies: {', '.join(skills.technologies)}")
-print(f"   - Tools: {', '.join(skills.tools)}\n")
-
-class Interests:
-    def __init__(self, hobbies, interests):
-        self.hobbies = hobbies
-        self.interests = interests
-
-interests = Interests(
-    hobbies=["Coding", "Movies"],
-    interests=["Machine Learning", "Open Source", "Scripting", "Ricing Linux Environment", ]
-)
-
-# Display Interests
-print("🌟 In my free time, you'll find me:")
-print(f"   - Hobbies: {', '.join(interests.hobbies)}")
-print(f"   - Interests: {', '.join(interests.interests)}\n")
-
-
-# Let's connect!
-print("📫 Let's connect and collaborate! Feel free to reach out.")
-print("   - GitHub: https://github.com/ukantjadia")
-print("   - LinkedIn: https://www.linkedin.com/in/ukantjadia")
-print("   - Twitter: https://twitter.com/UkantJ22803")
-
-# Happy coding! 🚀
-```
 <p > <img src="https://komarev.com/ghpvc/?username=ukantjadia&label=Profile%20views&color=00ff40&style=plastic" alt="ukantjadia" /> </p>
 
 # Blog posts
