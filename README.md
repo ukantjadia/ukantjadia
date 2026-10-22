@@ -1,4 +1,4 @@
-<!-- <a align="center"><img src="https://ukantjadia.me/github.png" alt="A Data Wizard!! " width="100%" height="auto"/></a> -->
+<!-- <a align="center"><img src="https://ukantjadia.github.io/github.png" alt="A Data Wizard!! " width="100%" height="auto"/></a> -->
 
 <!-- <a href="https://app.daily.dev/ukant_jadia"><img align="right" src="https://api.daily.dev/devcards/dbab39c16f11401f9e2d72542d932ccb.png?r=9v5" width="400" alt="Ukant Jadia's Dev Card"/></a> -->
  
@@ -9,18 +9,18 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner&#39;s Guide to DevOps with Terraform and GitHub](http://ukantjadia.me/project/devops-journy/)
-- [SAS Fraud Management Platform](http://ukantjadia.me/post/sas-fm/)
-- [ECG-Lense: Benchmarking ML &amp; DL Models on PTB-XL Dataset](http://ukantjadia.me/publication/conference-paper/)
-- [Federated Learning vs. De-Anonymization -- Protecting Your Data](http://ukantjadia.me/post/fl-2/)
-- [Introduction to Federated Learning](http://ukantjadia.me/post/fl/)
+- [A Beginner&#39;s Guide to DevOps with Terraform and GitHub](https://ukantjadia.github.io/project/devops-journy/)
+- [SAS Fraud Management Platform](https://ukantjadia.github.io/post/sas-fm/)
+- [ECG-Lense: Benchmarking ML &amp; DL Models on PTB-XL Dataset](https://ukantjadia.github.io/publication/conference-paper/)
+- [Federated Learning vs. De-Anonymization -- Protecting Your Data](https://ukantjadia.github.io/post/fl-2/)
+- [Introduction to Federated Learning](https://ukantjadia.github.io/post/fl/)
 <!-- BLOG-POST-LIST:END -->
 
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ukant.tech#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ukant.tech#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ukantjadia.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ukantjadia.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/ukantjadia1#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/ukantjadia1#gh-dark-mode-only)
