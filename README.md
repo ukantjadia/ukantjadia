@@ -25,8 +25,8 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/ukantjadia1#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/ukantjadia1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/UkantJ22803#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/UkantJ22803#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://x.com/ukantjadia#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/ukantjadia#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ukantjadia#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ukantjadia#gh-dark-mode-only)
