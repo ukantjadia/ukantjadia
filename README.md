@@ -12,8 +12,8 @@
 - [A Beginner&#39;s Guide to DevOps with Terraform and GitHub](https://ukantjadia.github.io/project/devops-journy/)
 - [SAS Fraud Management Platform](https://ukantjadia.github.io/post/sas-fm/)
 - [ECG-Lense: Benchmarking ML &amp; DL Models on PTB-XL Dataset](https://ukantjadia.github.io/publication/conference-paper/)
+- [ECG-Lense: Cardiac ECG Classification &lpar;IEEE Published&rpar;](https://ukantjadia.github.io/project/heart-ecg-project/)
 - [Federated Learning vs. De-Anonymization -- Protecting Your Data](https://ukantjadia.github.io/post/fl-2/)
-- [Introduction to Federated Learning](https://ukantjadia.github.io/post/fl/)
 <!-- BLOG-POST-LIST:END -->
 
 
