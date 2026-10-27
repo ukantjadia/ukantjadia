@@ -9,11 +9,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [403 vs 404: Why GitHub Hides Private Repos](https://ukantjadia.github.io/post/403-vs-404-github-private-repos/)
 - [A Beginner&#39;s Guide to DevOps with Terraform and GitHub](https://ukantjadia.github.io/project/devops-journy/)
 - [SAS Fraud Management Platform](https://ukantjadia.github.io/post/sas-fm/)
 - [ECG-Lense: Benchmarking ML &amp; DL Models on PTB-XL Dataset](https://ukantjadia.github.io/publication/conference-paper/)
 - [ECG-Lense: Cardiac ECG Classification &lpar;IEEE Published&rpar;](https://ukantjadia.github.io/project/heart-ecg-project/)
-- [Federated Learning vs. De-Anonymization -- Protecting Your Data](https://ukantjadia.github.io/post/fl-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
